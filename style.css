@@ -1,0 +1,18 @@
+body
+{
+    background:linear-gradient(#03fcc2,#0328fc);
+}
+h1
+{
+    color: blue;
+}
+p1,p2
+{
+    color:gold;
+    text-align: center;
+    align-self: center;
+}
+h2
+{
+    color:#03fca5;
+}
